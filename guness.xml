@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="guness" fetch="https://github.com/guness" revision="sa-main"/>
+
+  <!-- Automotive -->
+
+  <!-- project path="device/guness/common" name="firmware-device_guness_common" remote="guness" /-->
+  <!-- project path="device/guness/emulator" name="firmware-device_guness_emulator" remote="guness" /-->
+  <!-- project path="device/guness/rpi" name="firmware-device_guness_rpi" remote="guness" /-->
+  <!-- project path="vendor/guness/packages/maps" name="firmware-vendor_guness_packages_maps" remote="guness" /-->
+
+</manifest>
