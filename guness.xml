@@ -2,7 +2,7 @@
 <manifest>
   <remote name="guness" fetch="https://github.com/guness" revision="sa-main"/>
 
-  <remote name="aiden" fetch="https://github.com/aiden-automotive-technologies" revision="develop" />
+  <remote name="aiden" fetch="https://github.com/aidenabled" revision="develop" />
   <project path="packages/apps/AidenEnabler" name="aiden-android-enabler" remote="aiden" />
 
   <!-- Automotive -->
