@@ -2,8 +2,9 @@
 <manifest>
   <remote name="guness" fetch="https://github.com/guness" revision="sa-main"/>
 
-  <remote name="aiden" fetch="https://github.com/aidenabled" revision="develop" />
-  <project path="packages/apps/AidenEnabler" name="aiden-android-enabler" remote="aiden" />
+  <!-- Skipping Enabler for Now -->
+  <!-- <remote name="aiden" fetch="https://github.com/aidenabled" revision="develop" /> -->
+  <!-- <project path="packages/apps/AidenEnabler" name="aiden-android-enabler" remote="aiden" /> -->
 
   <!-- Automotive -->
 
